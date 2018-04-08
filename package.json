@@ -1,5 +1,5 @@
 {
-  "name": "permutationist",
+  "name": "split-line-items",
   "version": "0.0.1",
   "description": "Generate permutations of an object for use with Zaps that lack Line Item support",
   "main": "index.js",
